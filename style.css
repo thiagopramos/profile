@@ -1,0 +1,86 @@
+/* Colors and Fonts */
+
+body{
+  background: #000;
+  font-family: 'Indie Flower', cursive;
+  font-weight: 300;
+  color:  #F4D58D;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+h1, h2, h3{
+  font-family: 'Indie Flower', cursive;
+}
+
+.fire{
+  height: 30px;
+}
+
+h1{
+
+  color: #F4D58D;
+  font-size: 30px;
+  margin:10 auto;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+}
+
+h3{
+  color: #D7CF07;
+  margin: 10;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+a{
+  color: #ccc;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #DD5555;
+  text-decoration: none;
+}
+
+p{
+  margin: 10;
+}
+
+table{
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+.thumb{
+  width: 300px;
+  display:block;
+  margin:auto;
+}
+
+.name{
+  display: flex;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto; /* Automatically set left/right margins */
+}
+
+.card {
+  background-color: #8D0801;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px 0px rgba(100, 100, 100, 1);
+}
+
+.cover {
+  width: 200px;
+}
+/* Here goes your CSS */
